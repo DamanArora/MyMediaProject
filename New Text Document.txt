@@ -4,4 +4,8 @@ class Hello {
 		System.out.Println("World");
 		System.out.Println("Git");
 	}
+
+	public static void ret(){
+		syso();
+	}
 }
