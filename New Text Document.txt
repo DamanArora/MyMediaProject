@@ -4,7 +4,7 @@ class Hello {
 		System.out.Println("World");
 		System.out.Println("Git");
 	}
-					USER-2
+					LOCALUSER1
 	public static void ret(){
 		syso();
 qweqwefWWWsss
